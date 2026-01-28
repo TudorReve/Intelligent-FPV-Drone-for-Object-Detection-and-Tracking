@@ -101,7 +101,7 @@ Future goal: **automate drone movement** to track detected objects.
 - Configured and programmed in **Betaflight**
 - (ex: receiver setup, modes, rates, PID tuning notes, filters, OSD)
 
-➡️ Details: `docs/fpv-drone/firmware.md`
+➡️ Details: [`firmware/`](firmware/)
 
 ---
 
