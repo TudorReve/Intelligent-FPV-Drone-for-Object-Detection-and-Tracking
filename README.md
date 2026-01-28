@@ -28,9 +28,13 @@ Future goal: **automate drone movement** to track detected objects.
 ## Components
 
 ### Past
-<img src="assetsdronaveche/dronaveche1.jpg" alt="FPV Drone – Past Build" width="400">
 
-
+<table>
+  <tr>
+    <td width="45%" valign="top">
+      <img src="assetsdronaveche/dronaveche1.jpg" alt="FPV Drone – Past Build" width="100%">
+    </td>
+    <td width="55%" valign="top">
 
 - **Frame:** TBS SOURCE ONE V5 – 5 inch  
 - **Flight Controller (FC):** MATEK F405-WMN F405  
@@ -41,6 +45,10 @@ Future goal: **automate drone movement** to track detected objects.
 - **Antenna:** RUSH Cherry MMCX-J Extended Edition 5.8G  
 - **Battery:** HRB 14.8V 4000mAh 4S LiPo  
 - **GPS + Compass:** Foxeer M10Q-250 + QMC5883  
+
+    </td>
+  </tr>
+</table>
 
 ---
 
