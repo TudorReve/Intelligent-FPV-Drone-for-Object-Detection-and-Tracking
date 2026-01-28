@@ -53,20 +53,32 @@ Future goal: **automate drone movement** to track detected objects.
 ---
 
 ### Present
-![FPV Drone – Present Build](assets/images/fpv_present.jpg)
+
+<table>
+  <tr>
+    <td width="45%" valign="top">
+      <img src="assetsdronaveche/dronanoua1.jpg" alt="FPV Drone – Present Build" width="100%">
+    </td>
+    <td width="55%" valign="top">
 
 - **Frame:** TBS SOURCE ONE V5 – 5 inch  
-- **Flight Controller (FC):** Skystars F7 Pro4 
+- **Flight Controller (FC):** Skystars F7 Pro4  
 - **ESC:** KO60A BL32  
 - **Motors:** iFlight XING2 2207 1855KV  
-- **Analog VTX:** TBS Unify Pro32 HV 25-1000mW (**current limitation**) 
-- **Receiver:** Radiomaster ELRS 2.4Gh RP4TD-M True Diversity 
-- **Antenna:** TBS Triumph Pro SMA - Long Range  
-- **Battery:** CNHL Black Series 1500mAh 6S 130C 
-- **GPS + Compass:** GPS Module HGLRC M100 PRO
-- **Goggles:** SKY04O PRO
-- **Antenna for Goggles:** MenaceRC Pico Patch Type: RHCP,\
-    - TrueRC Core 125mm RHCP Connector: SMA
+- **Analog VTX:** TBS Unify Pro32 HV 25–1000mW (**current limitation**)  
+- **Receiver:** RadioMaster ELRS 2.4GHz RP4TD-M (True Diversity)  
+- **Antenna:** TBS Triumph Pro SMA – Long Range  
+- **Battery:** CNHL Black Series 1500mAh 6S 130C  
+- **GPS + Compass:** HGLRC M100 PRO  
+- **Goggles:** SKY04O PRO  
+- **Goggles Antennas:**  
+  - MenaceRC Pico Patch RHCP  
+  - TrueRC Core 125mm RHCP (SMA)
+
+    </td>
+  </tr>
+</table>
+
 
 
 **Future**
