@@ -28,7 +28,8 @@ Future goal: **automate drone movement** to track detected objects.
 ## Components
 
 ### Past
-![FPV Drone – Past Build](assets/images/fpv_past.jpg)
+![FPV Drone – Past Build](assetsdronaveche/dronaveche1.jpg)
+
 
 - **Frame:** TBS SOURCE ONE V5 – 5 inch  
 - **Flight Controller (FC):** MATEK F405-WMN F405  
