@@ -82,7 +82,7 @@ Future goal: **automate drone movement** to track detected objects.
 
 
 **Future**
-- (ex: upgraded digital link / better latency/quality, custom telemetry integration, autonomous modes)
+- (ex: upgraded digital link / better quality, custom telemetry integration, autonomous modes)
 
 
 
