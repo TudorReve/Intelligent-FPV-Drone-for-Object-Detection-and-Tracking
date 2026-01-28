@@ -45,11 +45,18 @@ Future goal: **automate drone movement** to track detected objects.
 ### Present
 ![FPV Drone – Present Build](assets/images/fpv_present.jpg)
 
-- 5-inch FPV build
-- Analog video transmission (**current limitation**)
-- Integrated **Raspberry Pi 5 + OAK-D Lite** for digital video feed
-- Custom **3D-printed landing legs** for increased ground clearance
-- Custom **3D-printed Raspberry Pi mounting bracket**
+- **Frame:** TBS SOURCE ONE V5 – 5 inch  
+- **Flight Controller (FC):** Skystars F7 Pro4 
+- **ESC:** KO60A BL32  
+- **Motors:** iFlight XING2 2207 1855KV  
+- **Analog VTX:** TBS Unify Pro32 HV 25-1000mW (**current limitation**) 
+- **Receiver:** Radiomaster ELRS 2.4Gh RP4TD-M True Diversity 
+- **Antenna:** TBS Triumph Pro SMA - Long Range  
+- **Battery:** CNHL Black Series 1500mAh 6S 130C 
+- **GPS + Compass:** GPS Module HGLRC M100 PRO
+- - **Goggles:** SKY04O PRO
+- - - **Antenna for Goggles:** MenaceRC Pico Patch Type: RHCP,\
+    - TrueRC Core 125mm RHCP Connector: SMA
 
 
 **Future**
