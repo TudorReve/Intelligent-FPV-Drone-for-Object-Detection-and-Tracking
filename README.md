@@ -152,9 +152,4 @@ Planned outputs:
 
 ---
 
-## 📁 Repo Structure
-- `docs/` – documentation (what/how/why)
-- `hardware/` – wiring diagrams, STL/CAD
-- `firmware/` – Betaflight dumps, configs
-- `vision/` – dataset, training, inference
-- `scripts/` – helper scripts (logging, conversion, evaluation)
+
