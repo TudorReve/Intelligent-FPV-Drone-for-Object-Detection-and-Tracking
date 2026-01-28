@@ -123,9 +123,9 @@ Future goal: **automate drone movement** to track detected objects.
 - Training pipeline + evaluation
 - Inference pipeline intended for real-time use
 
-➡️ Details: `docs/object-recognition/yolo-model.md`
+➡️ Details: [`yolo/`](yolo/)
 
-## Distance & Position Estimation
+## Distance & Position Estimation(working now)
 Goal: estimate detected object positions in real time using:
 - GPS coordinates
 - Altitude
