@@ -93,7 +93,8 @@ Future goal: **automate drone movement** to track detected objects.
   - Landing legs for ground clearance
   - Raspberry Pi mounting bracket
 
-➡️ Details: `docs/fpv-drone/construction.md`
+➡️ Details: [`construction`](construction/README.md)
+
 
 ## Firmware
 - Configured and programmed in **Betaflight**
