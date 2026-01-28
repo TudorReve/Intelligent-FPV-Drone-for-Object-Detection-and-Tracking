@@ -138,7 +138,7 @@ Planned outputs:
 - Relative distance + bearing from drone
 - Tracking-ready state for autonomous movement
 
-➡️ Details: `docs/object-recognition/distance-estimation.md`
+
 
 ---
 
