@@ -93,7 +93,8 @@ Future goal: **automate drone movement** to track detected objects.
   - Landing legs for ground clearance
   - Raspberry Pi mounting bracket
 
-➡️ Details: [`construction`](construction/README.md)
+➡️ Details: [`construction/`](construction/)
+
 
 
 ## Firmware
