@@ -113,7 +113,8 @@ Future goal: **automate drone movement** to track detected objects.
 - Digital video transmission to laptop (describe protocol/latency/bandwidth here)
 - (optional) telemetry sync plan with video frames
 
-➡️ Details: `docs/object-recognition/rpi-camera.md`
+➡️ Details: [`rpi/`](rpi/)
+
 
 ## YOLO Model
 - Trained on dedicated dataset for:
