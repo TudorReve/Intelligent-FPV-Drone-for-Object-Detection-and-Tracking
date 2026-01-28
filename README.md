@@ -28,7 +28,8 @@ Future goal: **automate drone movement** to track detected objects.
 ## Components
 
 ### Past
-![FPV Drone – Past Build](assetsdronaveche/dronaveche1.jpg)
+<img src="assetsdronaveche/dronaveche1.jpg" alt="FPV Drone – Past Build" width="400">
+
 
 
 - **Frame:** TBS SOURCE ONE V5 – 5 inch  
