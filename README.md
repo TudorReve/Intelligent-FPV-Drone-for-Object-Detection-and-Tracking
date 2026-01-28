@@ -27,7 +27,15 @@ Future goal: **automate drone movement** to track detected objects.
 
 ## Components
 **Past**
-- (ex: Frame, FC, ESC, motors, VTX analog, receiver, antennas, battery, etc.)
+Frame : TBS SOURCE ONE V5 - 5 icnh 
+FC : MATEK F405-WMN F405 Flight Controller 
+ESC : 4x(LANRC 45A BLHeli_S)
+motors : Motor iFlight 1800KV XING-E Pro 2207 2-6S
+VTX analog : VTX AKK FX3-Ultimate-DVR 5.8G 1W
+receiver : iA6B Receiver
+antennas : Antenna RUSH Cherry MMCX-J Extended Edition 5.8G
+battery: HRB 14.8V 4000mah RC Battery 4S Lipo  
+gps + compass : GPS Module Foxeer M10Q 250 5883 Compass
 
 **Present**
 - 5-inch FPV build
