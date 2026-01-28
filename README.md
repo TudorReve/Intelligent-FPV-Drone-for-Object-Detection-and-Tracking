@@ -55,7 +55,7 @@ Future goal: **automate drone movement** to track detected objects.
 - **Battery:** CNHL Black Series 1500mAh 6S 130C 
 - **GPS + Compass:** GPS Module HGLRC M100 PRO
 - - **Goggles:** SKY04O PRO
-- - - **Antenna for Goggles:** MenaceRC Pico Patch Type: RHCP,\
+- -  **Antenna for Goggles:** MenaceRC Pico Patch Type: RHCP,\
     - TrueRC Core 125mm RHCP Connector: SMA
 
 
