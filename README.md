@@ -84,7 +84,7 @@ Future goal: **automate drone movement** to track detected objects.
 **Future**
 - (ex: upgraded digital link / better latency/quality, custom telemetry integration, autonomous modes)
 
-➡️ Details: `docs/fpv-drone/components.md`
+
 
 ## Construction
 - Full manual soldering and electronic connections
