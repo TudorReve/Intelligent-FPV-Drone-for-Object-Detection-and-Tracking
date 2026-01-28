@@ -26,22 +26,31 @@ Future goal: **automate drone movement** to track detected objects.
 # 🚁 FPV Drone
 
 ## Components
-**Past**
- - Frame : TBS SOURCE ONE V5 - 5 icnh 
- - FC : MATEK F405-WMN F405 Flight Controller 
- -ESC : 4x(LANRC 45A BLHeli_S)
- - motors : Motor iFlight 1800KV XING-E Pro 2207 2-6S
- - VTX analog : VTX AKK FX3-Ultimate-DVR 5.8G 1W
- - receiver : iA6B Receiver
- - antennas : Antenna RUSH Cherry MMCX-J Extended Edition 5.8G
- - battery: HRB 14.8V 4000mah RC Battery 4S Lipo  
- - gps + compass : GPS Module Foxeer M10Q 250 5883 Compass
 
-**Present**
+### Past
+![FPV Drone – Past Build](assets/images/fpv_past.jpg)
+
+- **Frame:** TBS SOURCE ONE V5 – 5 inch  
+- **Flight Controller (FC):** MATEK F405-WMN F405  
+- **ESC:** 4× LANRC 45A BLHeli_S  
+- **Motors:** iFlight XING-E Pro 2207 1800KV (2–6S)  
+- **Analog VTX:** AKK FX3-Ultimate-DVR 5.8G 1W  
+- **Receiver:** FlySky iA6B  
+- **Antenna:** RUSH Cherry MMCX-J Extended Edition 5.8G  
+- **Battery:** HRB 14.8V 4000mAh 4S LiPo  
+- **GPS + Compass:** Foxeer M10Q-250 + QMC5883  
+
+---
+
+### Present
+![FPV Drone – Present Build](assets/images/fpv_present.jpg)
+
 - 5-inch FPV build
-- Analog video transmission (current limitation)
-- Added: Raspberry Pi 5 + OAK-D Lite digital feed pipeline
-- 3D printed landing legs + RPi mount
+- Analog video transmission (**current limitation**)
+- Integrated **Raspberry Pi 5 + OAK-D Lite** for digital video feed
+- Custom **3D-printed landing legs** for increased ground clearance
+- Custom **3D-printed Raspberry Pi mounting bracket**
+
 
 **Future**
 - (ex: upgraded digital link / better latency/quality, custom telemetry integration, autonomous modes)
