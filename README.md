@@ -19,7 +19,7 @@ Future goal: **automate drone movement** to track detected objects.
   - [YOLO Model](#yolo-model)
   - [Distance & Position Estimation](#distance--position-estimation)
 - [Roadmap](#-roadmap)
-- [Repo Structure](#-repo-structure)
+
 
 ---
 
